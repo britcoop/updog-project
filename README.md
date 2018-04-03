@@ -10,3 +10,6 @@ Routes
 - POST `/api/pets` Create a pet!
 - PUT `/api/pets/:pet_id` Update pet!
 - DELETE `/api/pets/:pet_id` Delete pet!
+
+DEMO (not finished just yet!)
+https://updog-ranking.herokuapp.com/
